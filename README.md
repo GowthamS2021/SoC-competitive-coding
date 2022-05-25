@@ -22,4 +22,4 @@ week-4:
   
 week-5:
 
-    -about dyanmic programming 
+    -about dynamic programming 
