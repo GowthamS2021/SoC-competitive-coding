@@ -22,3 +22,7 @@ week-5:
     <ul>
     <li> -about dynamic programming </li>
     </ul>
+week-6:
+    <ul>
+    <li> - about greedy algorithms </li>
+    </ul>
