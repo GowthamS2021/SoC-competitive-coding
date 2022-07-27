@@ -1,24 +1,26 @@
 # SoC-competitive-coding
 
 week-1:
-     -about C++ STL 
+     <ul>
+     <li>about C++ STL </li>
 
-     -solved problems in introductory set of problems in CSES 
-     
+     <li>solved problems in introductory set of problems in CSES </li>
+     </ul>
  week-2:
-     <div>
-     -about sorting and searching
+     <ul>     
+     <li>about sorting and searching</li>
 
-     -solved first 5 problems in sorting and searching set of problems in  CSES
-     <\div>
+     <li>solved first 5 problems in sorting and searching set of problems in  CSES</li>
+     </ul>
 week-3:
-     
-     -about graph algorithms
-   
+     <ul>
+     <li>-about graph algorithms</li>
+     </ul>
 week-4:
-
-    -about divide and conquer paradigm
-  
+     <ul>
+    <li>-about divide and conquer paradigm</li>
+     </ul>
 week-5:
-
-    -about dynamic programming 
+    <ul>
+    <li> -about dynamic programming </li>
+    </ul>
