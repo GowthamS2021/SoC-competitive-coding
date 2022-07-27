@@ -3,13 +3,11 @@
 week-1:
      <ul>
      <li>about C++ STL </li>
-
      <li>solved problems in introductory set of problems in CSES </li>
      </ul>
  week-2:
      <ul>     
      <li>about sorting and searching</li>
-
      <li>solved first 5 problems in sorting and searching set of problems in  CSES</li>
      </ul>
 week-3:
