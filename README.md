@@ -1,11 +1,10 @@
 # SoC-competitive-coding
 
 week-1:
-     <div>
      -about C++ STL 
 
      -solved problems in introductory set of problems in CSES 
-     <\div>
+     
  week-2:
      <div>
      -about sorting and searching
