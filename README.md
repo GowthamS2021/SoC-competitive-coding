@@ -12,7 +12,7 @@ week-1:
      </ul>
 week-3:
      <ul>
-     <li>The third week was about graphs and tracing algorithms like bfs and dfs</li>
+     <li>The third week was about graphs and tracing algorithms like BFS and DFS</li>
      <li> Solved Problems on graph algorithms in CSES and Codeforces</li>
      </ul>
 week-4:
