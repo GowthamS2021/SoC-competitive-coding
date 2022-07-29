@@ -2,13 +2,13 @@
 
 week-1:
      <ul>
-     <li>about C++ STL </li>
-     <li>solved problems in introductory set of problems in CSES </li>
+     <li> The Introductory Week was about C++ STL - stacks queues,priority queues,etc </li>
+     <li>I had solved problems in introductory set of problems in CSES </li>
      </ul>
  week-2:
      <ul>     
-     <li>about sorting and searching</li>
-     <li>solved first 5 problems in sorting and searching set of problems in  CSES</li>
+     <li>The second week was about sorting and searching</li>
+     <li>I solved problems in sorting and searching set of problems in  CSES</li>
      </ul>
 week-3:
      <ul>
