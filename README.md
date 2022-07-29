@@ -7,12 +7,12 @@ week-1:
      </ul>
  week-2:
      <ul>     
-     <li>The second week was about sorting and searching</li>
+     <li>The second week was about sorting and searching algorithms,etc</li>
      <li>I solved problems in sorting and searching set of problems in  CSES</li>
      </ul>
 week-3:
      <ul>
-     <li>-about graph algorithms</li>
+     <li>The third week was about graphs and tracing algorithms like bfs and dfs</li>
      <li> Solved Problems on graph algorithms in CSES and Codeforces</li>
      </ul>
 week-4:
